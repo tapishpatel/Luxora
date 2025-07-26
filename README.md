@@ -53,9 +53,9 @@ Deployed via GitHub Pages with full HTTPS support.
 
 ## 📸 Sneak Peek
 
-![Luxora Landing Page Preview](https://via.placeholder.com/1000x600?text=Luxora+Landing+Page+Preview)
+![Luxora Landing Page Preview](https://tapishpatel.github.io/Luxora/)
 
-*(Replace with a real screenshot if you’d like)*
+
 
 ---
 
